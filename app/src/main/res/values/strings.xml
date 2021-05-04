@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Floating View</string>
+    <string name="main_text">Floating view example</string>
+    <string name="notification_channel_general">FloatingView</string>
+    <string name="notification_text">Notification content</string>
+    <string name="notification_exit">Exit</string>
 </resources>
